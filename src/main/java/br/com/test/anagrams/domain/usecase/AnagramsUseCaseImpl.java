@@ -1,4 +1,4 @@
-package br.com.test.anagrams.usecase;
+package br.com.test.anagrams.domain.usecase;
 
 import br.com.test.anagrams.presenter.client.AnagramsUsecase;
 
